@@ -1,0 +1,7 @@
+aiogram
+environs
+python-dotenv
+pysqlite3
+beautifulsoup4
+requests
+webdriver_manager
